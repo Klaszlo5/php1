@@ -1,0 +1,11 @@
+body{
+    background-color: gray;
+}
+table{
+    border-style:solid black 2px;
+    border-width:2px;
+}
+table tr td{
+    border-style:solid black 2px;
+    border-width:2px;
+}
